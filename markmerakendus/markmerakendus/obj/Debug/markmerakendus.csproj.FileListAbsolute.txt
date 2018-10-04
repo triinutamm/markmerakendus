@@ -8,3 +8,6 @@ C:\Users\triinu\Desktop\kool\proge\markmerakendus\markmerakendus\markmerakendus\
 C:\Users\triinu\Desktop\kool\proge\markmerakendus\markmerakendus\markmerakendus\obj\Debug\markmerakendus.csproj.CoreCompileInputs.cache
 C:\Users\triinu\Desktop\kool\proge\markmerakendus\markmerakendus\markmerakendus\obj\Debug\markmerakendus.exe
 C:\Users\triinu\Desktop\kool\proge\markmerakendus\markmerakendus\markmerakendus\obj\Debug\markmerakendus.pdb
+C:\Users\triinu\Desktop\kool\projects\markmerakendus\markmerakendus\markmerakendus\obj\Debug\markmerakendus.csprojAssemblyReference.cache
+C:\Users\triinu\Desktop\kool\projects\markmerakendus\markmerakendus\markmerakendus\obj\Debug\markmerakendus.exe
+C:\Users\triinu\Desktop\kool\projects\markmerakendus\markmerakendus\markmerakendus\obj\Debug\markmerakendus.pdb
